@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abner Jonathan
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning programing, scratch, HTML and CSS.
-- 💞️ I’m looking to collaborate on SEDUC's teacher training.
+- 🌱 I’m currently learning programing, scratch, HTML and CSS
+- 💞️ I’m looking to collaborate on SEDUC's teacher training
 - 📫 How to reach me abnerj@prof.educacao.sp.gov.br
 
 <!---
